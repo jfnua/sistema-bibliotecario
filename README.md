@@ -15,23 +15,23 @@ Proyecto final de la materia diseño de sistemas de segundo año de ingenieria e
 
 ## Setup
 
-#### Para ejecutar el proyecto en Netbeans:
+### Para ejecutar el proyecto en Netbeans:
 
-##### 1. Importamos y ejecutamos el script de la base de datos a Mysql, utilizando Mysql workbench, phpmyadmin u otro.
+#### 1. Importamos y ejecutamos el script de la base de datos a Mysql, utilizando Mysql workbench, phpmyadmin u otro.
 El script de sql se encuentra en la carpeta databse/ del proyecto.
 
-##### 2. Importar el proyecto a Netbeans como ZIP.
+#### 2. Importar el proyecto a Netbeans como ZIP.
 
-![Image text](https://github.com/jfnua/sistema-bibliotecario/imgreadme/importar-zip-netbeans.png)
+![Image text](https://github.com/jfnua/sistema-bibliotecario/blob/main/imgreadme/importar-zip-netbeans.png)
 
-##### 3. Cambiar el String de conexion a la base de datos en el archivo Conexion.java que esta en la carpeta src/BD/ del proyecto.
+#### 3. Cambiar el String de conexion a la base de datos en el archivo Conexion.java que esta en la carpeta src/BD/ del proyecto.
 
-![Image text](https://github.com/jfnua/sistema-bibliotecario/imgreadme/string-conexion-bd.png)
+![Image text](https://github.com/jfnua/sistema-bibliotecario/blob/main/imgreadme/string-conexion-bd.png)
 
-##### 4. Ejecutar el proyecto en Netbeans. En la ventana de login los datos son admin tanto el usuario como la contraseña.
+#### 4. Ejecutar el proyecto en Netbeans. En la ventana de login los datos son admin tanto el usuario como la contraseña.
 
-![Image text](https://github.com/jfnua/sistema-bibliotecario/imgreadme/ventana-login.png)
+![Image text](https://github.com/jfnua/sistema-bibliotecario/blob/main/imgreadme/ventana-login.png)
 
-##### 5. Listo se mostrara la ventana principal de administracion del sistema bibliotecario
+#### 5. Listo se mostrara la ventana principal de administracion del sistema bibliotecario
 
-![Image text](https://github.com/jfnua/sistema-bibliotecario/imgreadme/ventana-principal.png)
+![Image text](https://github.com/jfnua/sistema-bibliotecario/blob/main/imgreadme/ventana-principal.png)
